@@ -4,6 +4,8 @@
 
 > ⚠️ For educational use only. Do **not** run on machines without permission.
 
+> Dont **Skid** or **Sell** this script
+
 ---
 
 ## ✨ Features
