@@ -1,4 +1,4 @@
-# 🛰️ NocWatcher — Discord Remote System Bot
+# 🛰️ NightWatcher — Discord Remote System Bot
 
 **NocWatcher** is a lightweight python file for remotely monitoring and controlling a system via Discord Bot commands.
 
